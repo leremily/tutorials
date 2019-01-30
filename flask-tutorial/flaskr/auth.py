@@ -52,7 +52,7 @@ def register():
 
 # Login Page
 # return the 'login' view with [URL]/login is requested
-@bp.route('login', methods=('GET', 'POST'))
+@bp.route('/login', methods=('GET', 'POST'))
 def login():
     # try to sign in if form was filled in, e.g. request type POST
     # otherwise, return the login page
