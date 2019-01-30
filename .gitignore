@@ -106,3 +106,8 @@ flask-tutorial/.vscode/settings.json
 
 # VS code project settings
 .vscode
+data-science-udemy/.DS_Store
+data-science-udemy/.DS_Store
+
+# MAC folder settings
+.DS_Store
