@@ -1,4 +1,7 @@
 The basic tutorial from the Flask documentation.
-I made basic improvements where I could and it was obvious to do so.
+They have it available on a repo, but it was better to create it step by step rather than just read
+through everything.
+Filled in the code with comments on functionality that isn't obvious to a newcomer like myself.
+I also made basic improvements where I could and it was obvious to do so, listed below.
 
 1. In flaskr/__init__.py, made the try-except block actually do something.
