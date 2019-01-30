@@ -1,2 +1,2 @@
 # tutorials
-A repo for working through tutorials for various libraries.
+A repo for working through tutorials for various libraries and frameworks
