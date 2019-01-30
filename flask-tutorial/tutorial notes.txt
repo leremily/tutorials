@@ -7,7 +7,7 @@ I also made basic improvements where I could and it was obvious to do so, listed
 1. In flaskr/__init__.py, made the try-except block actually do something.
 
 Flasks' suggested improvements:
-    A detail view to show a single post. Click a post’s title to go to its page.
+    A detail view to show a single post. Click a post’s title to go to its page. [Done!]
     Like / unlike a post.
     Comments.
     Tags. Clicking a tag shows all the posts with that tag.
