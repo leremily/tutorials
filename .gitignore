@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+flask-tutorial/.vscode/settings.json
+
+# VS code project settings
+.vscode
