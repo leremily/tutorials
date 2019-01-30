@@ -5,6 +5,7 @@ Filled in the code with comments on functionality that isn't obvious to a newcom
 
 I also made basic improvements where I could and it was obvious to do so, listed below.
 1. In flaskr/__init__.py, made the try-except block actually do something.
+2. The flaskr logo links back to the index
 
 Flasks' suggested improvements:
     A detail view to show a single post. Click a post’s title to go to its page. [Done!]
